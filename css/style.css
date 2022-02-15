@@ -4,13 +4,17 @@ header{
 
 
 .logo{
-    position: static ;
+    padding-top: 55px;
+    padding-left: 10px;
 
   
     width: 150px;
 }
 h2{
     color: gray;
+    }
+class{
+    color: rgb(0, 123, 255);
 }
 h3{
     color: gray;
@@ -18,8 +22,15 @@ h3{
 hr{
     border: white;
 }
+.yellow{
+    background-color: yellow;
+}
+table{
+   border-collapse: collapse;
+}
 thead{
     color: white;
+    
 }
 h4{
     color: grey;
